@@ -2,6 +2,7 @@ import time
 import datetime
 import os
 
+
 alarm_time = input("Enter the time (HH:MM:SS Am/PM): ")
 
 
@@ -26,7 +27,14 @@ while True:
         print("⏰ Alarm! Time to wake up!")
     
         os.system("start alarm.mp3")  # For Windows: open audio file using default player
-        
+
+
         break
 
     time.sleep(1)
+
+
+
+
+
+
