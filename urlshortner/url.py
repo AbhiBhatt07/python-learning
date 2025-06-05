@@ -5,6 +5,7 @@ def shorten_url(long_url):
     shortener = pyshorteners.Shortener()
 
     short_url = shortener.tinyurl.short(long_url)
+    print(short_url)
 
     return short_url
 
