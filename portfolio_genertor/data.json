@@ -1,0 +1,35 @@
+{
+  "name": "John Doe",
+  "bio": "I am a Python developer passionate about automation, cloud technologies, and building tools that solve real-world problems.",
+  "contact": {
+    "email": "john.doe@example.com",
+    "github": "https://github.com/johndoe",
+    "linkedin": "https://linkedin.com/in/johndoe"
+  },
+  "skills": ["Python", "Flask", "AWS", "Docker", "SQL", "Git", "REST APIs"],
+  "education": {
+    "degree": "B.Sc. in Computer Science",
+    "university": "Tech University",
+    "year": "2022"
+  },
+  "projects": [
+    {
+      "title": "Weather App",
+      "description": "Displays real-time weather information using OpenWeatherMap API with a sleek UI."
+    },
+    {
+      "title": "Expense Tracker",
+      "description": "A web-based tool to track and categorize daily expenses, with visual charts."
+    },
+    {
+      "title": "QR Code Generator",
+      "description": "Generates custom QR codes from text or URLs using Python and outputs PNGs."
+    },
+    {
+      "title": "PDF Merger",
+      "description": "Combines multiple PDFs into one using PyPDF2; supports drag and drop CLI usage."
+    }
+  ],
+  "profile_image": "https://avatars.githubusercontent.com/u/00000000?v=4"
+
+}
